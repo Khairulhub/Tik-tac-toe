@@ -72,4 +72,4 @@ reset.addEventListener('click', () => {
 
 
 
-// music.play();
+music.play();
